@@ -1,5 +1,4 @@
 # git-tutorial-wph-rep-1
 
-batch pengulangan git
-
-mantap coach!
+wph 007 Dimas satria
+tes fork contributor
